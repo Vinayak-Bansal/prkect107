@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: chartreuse;
+    text-align: center;
+    text-decoration-color: coral;
+}
+p{
+    font-weight: 900;
+    font-size: medium;
+}
+button{
+    margin-top: 50px;
+    font-weight: 900;
+
+}
+footer{
+    font-size: larger;
+    text-shadow: 10cm;
+    
+}
